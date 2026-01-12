@@ -1,28 +1,81 @@
-# 👋 Hi, I’m Matías Jofré
+👋 Hola, soy Matías Jofré
 
-Junior Software Developer | Backend / Full Stack  
-Computer Science Engineer (Graduated 2025)
+🎓 Ingeniero Civil Informático  
+💻 Junior Software Developer | Backend / Full Stack  
+📍 Chile
 
-💻 I have hands-on experience building real-world software solutions for
-energy, healthcare, and education sectors using Python, FastAPI, Node.js,
-React, and relational databases.
+---
 
-🔒 Due to confidentiality agreements, several professional projects are
-private repositories. This profile contains public demo projects that
-showcase my coding style, architecture decisions, and technical skills.
+## 🧑‍💻 Sobre mí
 
-🚀 Main technical interests:
-- Backend development & REST APIs
-- Automation & data processing
-- Full Stack web applications
+Soy desarrollador de software con experiencia práctica construyendo soluciones reales para los sectores de **energía, salud y educación**.  
+Trabajo principalmente en **backend**, pero también tengo experiencia en **full stack**.
 
-🛠 Tech Stack:
+Me enfoco en:
+- Buen diseño de APIs
+- Código limpio y mantenible
+- Arquitecturas claras y escalables
+- Automatización y buenas prácticas
+
+> ⚠️ Debido a acuerdos de confidencialidad, varios proyectos profesionales son privados.  
+> Este perfil contiene **proyectos demo públicos** que reflejan mi estilo de código, decisiones de arquitectura y nivel técnico.
+
+---
+
+## 🚀 Intereses técnicos principales
+
+- Desarrollo Backend & APIs REST
+- Automatización y procesamiento de datos
+- Aplicaciones Full Stack
+- Arquitectura de software
+- Docker y entornos reproducibles
+
+---
+
+## 🛠️ Stack Tecnológico
+
+### Backend
 - Python (FastAPI)
-- Node.js, Express
-- React, TypeScript
-- PostgreSQL / MySQL / SQL Server 
-- Docker, GitHub Actions
+- Node.js (Express)
+- Autenticación JWT
+- SQLAlchemy
 
-📫 Contact:
-- LinkedIn: https://www.linkedin.com/in/matias-jofré-409bba34b/
-- Email: mati.jofrerojas@gmail.com
+### Frontend
+- React
+- TypeScript
+
+### Bases de datos
+- PostgreSQL
+- MySQL
+- SQL Server
+
+### DevOps & Tools
+- Docker & Docker Compose
+- Git & GitHub
+- GitHub Actions
+- Linux
+
+---
+
+## 📌 Proyectos Técnicos (Demos)
+
+🔹 **FastAPI + PostgreSQL Backend Demo**  
+Proyecto demo que muestra:
+- Autenticación JWT
+- PostgreSQL
+- Docker y Docker Compose
+- Arquitectura limpia y escalable
+- Documentación con Swagger
+
+👉 Repositorio público fijado en mi perfil
+
+---
+
+## 📫 Contacto
+
+- 💼 LinkedIn: https://www.linkedin.com/in/matias-jofré-409bba34b/
+- 📧 Email: matiasjofrejs@gmail.com
+
+---
+
+⭐ Siempre abierto a aprender, mejorar y enfrentar nuevos desafíos técnicos.
